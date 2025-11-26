@@ -11,6 +11,8 @@ Version du SDK utilisée : .NET Core 2.1
 
 ### 5. Dépôt GitHub personnel
 
+https://github.com/DieSylla/MonDepotBoutique.git
+
 ### 6. Bugs repérés dans l’application
 #### Traduction en espagnol non fonctionnelle :
 Le changement de langue vers l’espagnol n’a aucun effet sur l’interface.
